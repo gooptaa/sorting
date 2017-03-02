@@ -11,7 +11,7 @@
 
 // // merge(split(arr, begin1, end1), split(arr, begin2, end2)) => begin end
 // // ==> split(arr, begin1, end1) => mergeSortHelper(arr, begin1, end1)
-// // 
+// //
 
 
 // /*
@@ -21,7 +21,7 @@
 // 	end - the end index of the current subarray
 // */
 // function mergeSortHelper(arr, begin, end){
-// 	if(begin === end){								
+// 	if(begin === end){
 // 		// this subarray is sorted, don't do anything
 // 	} else {
 // 		// we need to sort and merge
